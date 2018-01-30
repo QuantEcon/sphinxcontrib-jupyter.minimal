@@ -3,7 +3,7 @@
 A Minimal Example of the Jupyter Sphinx Extension
 
 This is a minimal example of a Sphinx project that is setup
-to use the `Jupyter Extension<https://github.com/QuantEcon/sphinxcontrib-jupyter>`__.
+to use the [Jupyter Extension](https://github.com/QuantEcon/sphinxcontrib-jupyter>)
 
 This requires you to install the extension:
 
