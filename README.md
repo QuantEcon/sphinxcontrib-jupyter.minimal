@@ -14,3 +14,9 @@ Once cloned you should be able to run:
     make jupyter
 
 to generate a small set of demo jupyter notebooks.
+
+Generated notebooks can be found in the `_build/jupyter/` folder.
+
+## simple_notebook.rst
+
+![simple_notebook.rst](_static/simple_notebook.png)
