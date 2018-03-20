@@ -9,6 +9,9 @@ This requires you to install the extension:
 
     pip install sphinxcontrib-jupyter
 
+> **Note:** This example currently only works using the latest [master](https://github.com/QuantEcon/sphinxcontrib-jupyter)
+> and installing using `python setup.py install`. Awaiting for PyPI credentials to update releases. 
+
 Once cloned you should be able to run:
 
     make jupyter
